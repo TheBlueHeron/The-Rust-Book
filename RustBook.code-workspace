@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "hello_world"
+		},
+		{
+			"path": "hello_cargo"
+		},
+		{
+			"path": "guessing_game"
+		},
+		{
+			"path": "variables"
+		},
+		{
+			"path": "functions"
+		},
+		{
+			"path": "branches"
+		}
+	],
+	"settings": {
+		"window.zoomLevel": 1,
+		"files.autoSave": "afterDelay",
+		"[rust]": {
+			"editor.codeLens": true
+		}
+	}
+}
