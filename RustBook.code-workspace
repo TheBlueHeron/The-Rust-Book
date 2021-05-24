@@ -17,6 +17,15 @@
 		},
 		{
 			"path": "branches"
+		},
+		{
+			"path": "ownership"
+		},
+		{
+			"path": "references_and_borrowing"
+		},
+		{
+			"path": "slices"
 		}
 	],
 	"settings": {
