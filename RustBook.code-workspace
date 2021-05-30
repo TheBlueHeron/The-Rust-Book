@@ -29,6 +29,12 @@
 		},
 		{
 			"path": "structs"
+		},
+		{
+			"path": "enums"
+		},
+		{
+			"path": "match-control-flow-operator"
 		}
 	],
 	"settings": {
