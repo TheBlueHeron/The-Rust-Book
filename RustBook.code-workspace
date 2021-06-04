@@ -35,6 +35,9 @@
 		},
 		{
 			"path": "match-control-flow-operator"
+		},
+		{
+			"path": "packages-crates-modules"
 		}
 	],
 	"settings": {
