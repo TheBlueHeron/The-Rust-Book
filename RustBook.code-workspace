@@ -38,6 +38,12 @@
 		},
 		{
 			"path": "packages-crates-modules"
+		},
+		{
+			"path": "collections"
+		},
+		{
+			"path": "error_handling"
 		}
 	],
 	"settings": {
