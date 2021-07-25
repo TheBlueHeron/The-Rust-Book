@@ -1,0 +1,1 @@
+C:\Users\MB\Source\RUST\The\ Rust\ Book\The-Rust-Book\generics_traits\target\debug\generics_traits.exe: C:\Users\MB\Source\RUST\The\ Rust\ Book\The-Rust-Book\generics_traits\src\lib.rs C:\Users\MB\Source\RUST\The\ Rust\ Book\The-Rust-Book\generics_traits\src\main.rs

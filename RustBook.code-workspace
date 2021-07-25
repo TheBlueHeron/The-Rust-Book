@@ -44,6 +44,15 @@
 		},
 		{
 			"path": "error_handling"
+		},
+		{
+			"path": "generics_types"
+		},
+		{
+			"path": "generics_traits"
+		},
+		{
+			"path": "lifetimes"
 		}
 	],
 	"settings": {
