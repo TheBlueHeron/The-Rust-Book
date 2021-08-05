@@ -53,6 +53,9 @@
 		},
 		{
 			"path": "lifetimes"
+		},
+		{
+			"path": "adder"
 		}
 	],
 	"settings": {

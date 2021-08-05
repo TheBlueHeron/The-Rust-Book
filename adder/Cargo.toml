@@ -1,0 +1,9 @@
+[package]
+name = "adder"
+version = "0.1.0"
+edition = "2018"
+autotests = false
+
+[[test]]
+name = "integration"
+path = "tests/integration_test.rs"
