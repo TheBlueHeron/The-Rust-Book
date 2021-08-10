@@ -1,0 +1,1 @@
+C:\Users\MB\Source\RUST\The\ Rust\ Book\The-Rust-Book\iterators\target\debug\iterators.exe: C:\Users\MB\Source\RUST\The\ Rust\ Book\The-Rust-Book\iterators\src\lib.rs C:\Users\MB\Source\RUST\The\ Rust\ Book\The-Rust-Book\iterators\src\main.rs

@@ -62,6 +62,9 @@
 		},
 		{
 			"path": "closures"
+		},
+		{
+			"path": "iterators"
 		}
 	],
 	"settings": {
