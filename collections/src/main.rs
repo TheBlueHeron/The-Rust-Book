@@ -1,3 +1,5 @@
+use std::collections::HashMap;
+
 fn main() {
     vectors();
     strings();
@@ -117,8 +119,6 @@ fn strings() {
 
 }
 
-use std::collections::HashMap;
-
 fn hashmaps() {
     let mut scores = HashMap::new();
 
@@ -164,5 +164,5 @@ fn hashmaps() {
 }
 
 fn exercises() {
-    
+
 }

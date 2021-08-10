@@ -1,0 +1,1 @@
+C:\Users\MB\Source\RUST\The\ Rust\ Book\The-Rust-Book\minigrep\target\debug\minigrep.exe: C:\Users\MB\Source\RUST\The\ Rust\ Book\The-Rust-Book\minigrep\src\lib.rs C:\Users\MB\Source\RUST\The\ Rust\ Book\The-Rust-Book\minigrep\src\main.rs

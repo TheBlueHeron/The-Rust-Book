@@ -1,0 +1,1 @@
+C:\Users\MB\Source\RUST\The\ Rust\ Book\The-Rust-Book\closures\target\debug\closures.exe: C:\Users\MB\Source\RUST\The\ Rust\ Book\The-Rust-Book\closures\src\lib.rs C:\Users\MB\Source\RUST\The\ Rust\ Book\The-Rust-Book\closures\src\main.rs
