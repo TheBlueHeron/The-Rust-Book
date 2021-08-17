@@ -68,7 +68,7 @@ where
 fn call_with_different_values() {
     let mut c = CacheMap::new(|a| a);
     let v1 = c.value(1);
-    let v2 = *c.value(2); // cannot compare equality of borrowed vs. owned values
+    let v2 = *c.value(2); // use the dereference operator to follow the reference to the value it’s pointing to
 
     assert_eq!(v2, 2);
 }

@@ -2,5 +2,9 @@
 name = "minigrep"
 version = "0.1.0"
 edition = "2018"
+authors = ["Michael Bakker <michaelbakker1@gmail.com>"]
+license = "MIT"
+description = "Tiny search app created in Chapter 12 of The Rust Book."
+# see cargo documentation for more metadata fields
 
 [dependencies]

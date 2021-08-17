@@ -1,0 +1,1 @@
+C:\Users\MB\Source\RUST\The\ Rust\ Book\The-Rust-Book\smart_pointers\target\debug\smart_pointers.exe: C:\Users\MB\Source\RUST\The\ Rust\ Book\The-Rust-Book\smart_pointers\src\lib.rs C:\Users\MB\Source\RUST\The\ Rust\ Book\The-Rust-Book\smart_pointers\src\main.rs
