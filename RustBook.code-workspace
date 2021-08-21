@@ -68,6 +68,9 @@
 		},
 		{
 			"path": "smart_pointers"
+		},
+		{
+			"path": "concurrency"
 		}
 	],
 	"settings": {
