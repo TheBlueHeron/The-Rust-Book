@@ -1,0 +1,1 @@
+C:\Users\MB\Source\RUST\The\ Rust\ Book\The-Rust-Book\object_oriented_features\target\debug\libobject_oriented_features.rlib: C:\Users\MB\Source\RUST\The\ Rust\ Book\The-Rust-Book\object_oriented_features\src\lib.rs

@@ -71,6 +71,9 @@
 		},
 		{
 			"path": "concurrency"
+		},
+		{
+			"path": "object_oriented_features"
 		}
 	],
 	"settings": {
