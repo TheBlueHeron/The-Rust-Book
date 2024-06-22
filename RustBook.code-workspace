@@ -74,6 +74,9 @@
 		},
 		{
 			"path": "object_oriented_features"
+		},
+		{
+			"path": "patterns_and_matching"
 		}
 	],
 	"settings": {
